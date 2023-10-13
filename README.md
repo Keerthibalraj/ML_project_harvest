@@ -12,6 +12,12 @@
 - [Crop Recommendation](https://www.kaggle.com/atharvaingle/what-crop-to-grow)
 - [Disease Detection](https://www.kaggle.com/atharvaingle/plant-disease-classification-resnet-99-2)
 
+## WEBPAGE
+
+<img width="595" alt="1new" src="https://github.com/Keerthibalraj/ML_project_harvest/assets/86064505/4618e653-739f-42ea-b699-b219fbc8e38f">
+
+<img width="475" alt="2new" src="https://github.com/Keerthibalraj/ML_project_harvest/assets/86064505/a86ee154-bc69-48f9-a8a4-61496dcfabe9">
+
 ## DEMO
 
 - ### Crop recommendation system
